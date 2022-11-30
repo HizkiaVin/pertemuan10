@@ -1,12 +1,12 @@
 # DICTIONARY
-• Membuat Dictionary
+**• Membuat Dictionary**
 \
 a = {} # dictionary kosong
 \
 a = {'n1': 100, 'n2': 20, 'n3': 7} # dictionary dengan key:value
 
 
-• Mengakses Dictionary
+**• Mengakses Dictionary**
 \
 print(a['n2']) # print element dengan key 'n2'
 \
@@ -17,24 +17,24 @@ print(a.values()) # print all value dari dictionary
 print(a.items()) # print list of tuple(key, value) dari dictionary
 
 
-• Mengubah element Dictionary
+**• Mengubah element Dictionary**
 \
 a['n2'] = 10 # merubah value untuk key 'n2'
 
 
-• Menambah element Dictionary
+**• Menambah element Dictionary**
 \
 a['n4'] = 15 # menambah item with key 'n4'
 
 
-• Menghapus element Dictionary
+**• Menghapus element Dictionary**
 \
 del a[key]
 \
 a.pop() # bisa mendapatkan nilai kembali dari data yang telah dihapus
 
 
-• Loop Dictionary
+**• Loop Dictionary**
 \
 for item in a.items():
 \
