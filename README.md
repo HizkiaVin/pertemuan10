@@ -180,3 +180,8 @@ output :
 ![data2](https://user-images.githubusercontent.com/116176746/205081582-84035c38-9fdb-44fa-a51b-2adc00658a82.png)
 
 
+**Flowchart**
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/116176746/205086381-193e26a8-2ce7-40e1-af28-0f721864527b.png)
+
+
+
