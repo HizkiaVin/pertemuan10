@@ -173,6 +173,7 @@ while True:
 ```
 
 output : 
+\
 ![data1](https://user-images.githubusercontent.com/116176746/205081588-f929735c-34f0-4978-8b45-02b0b79a831c.png)
 
 \
